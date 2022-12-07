@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://mnzoor.github.io/sitemap.xml
