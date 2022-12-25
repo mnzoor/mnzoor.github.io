@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Ashfaq Manzoor.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mnzoor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mnzoor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days Of SwiftUI</title>
+      <link>https://mnzoor.github.io/100-days-of-swiftui/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnzoor.github.io/100-days-of-swiftui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://mnzoor.github.io/markdown-syntax-guide/</link>
@@ -20,37 +29,14 @@
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://mnzoor.github.io/code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnzoor.github.io/code/</guid>
-      <description>Some of the personal projects I’ve done, grouped by category. Updating whenever I remember. Mainly for myself to remember what I’ve done 🤑
-Mobile Swift 🦅 I learned swift for making apps for my mac
-Random Elements
-First project I ever did Super minimal dice app Goal : learn basics of swift </description>
-    </item>
-    
-    <item>
       <title>Profile</title>
       <link>https://mnzoor.github.io/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mnzoor.github.io/profile/</guid>
-      <description>Profile Github Linkedin Stack Overflow Kaggle LeetCode HackerRank Skills Proficient: Swift Familiar: C,Java Experience Self Employed (2022 - Present)
-Building FarSouls Education BS Data Science - IIT Madras (2022 - Present)
+      <description>Profile GitHub : mnzoor Linkedin Twitter : @ashmnzr Discord : ByteClaw#4527 Skills Proficient: Swift Familiar: C,Java,Python Experience Self Employed (2023 - Present)
+Building FarSouls Education BS Data Science - IIT Madras
 Coursework: Stats, Data Structures, DBMS </description>
-    </item>
-    
-    <item>
-      <title>Wiki</title>
-      <link>https://mnzoor.github.io/wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnzoor.github.io/wiki/</guid>
-      <description>Wiki Manifesto Beliefs on how to live
-Books My favourite books
-Stack </description>
     </item>
     
   </channel>

@@ -3,25 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mnzoor.github.io/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
+    <loc>https://mnzoor.github.io/100-days-of-swiftui/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mnzoor.github.io/blog/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mnzoor.github.io/blog/markdown/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mnzoor.github.io/blog/syntax/</loc>
+    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mnzoor.github.io/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mnzoor.github.io/blog/syntax/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mnzoor.github.io/code/</loc>
-  </url><url>
     <loc>https://mnzoor.github.io/profile/</loc>
-  </url><url>
-    <loc>https://mnzoor.github.io/wiki/</loc>
   </url>
 </urlset>

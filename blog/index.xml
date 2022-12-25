@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Ashfaq Manzoor.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mnzoor.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mnzoor.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days Of SwiftUI</title>
+      <link>https://mnzoor.github.io/100-days-of-swiftui/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnzoor.github.io/100-days-of-swiftui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://mnzoor.github.io/markdown-syntax-guide/</link>
