@@ -28,16 +28,5 @@
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Profile</title>
-      <link>https://mnzoor.github.io/profile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnzoor.github.io/profile/</guid>
-      <description>Profile GitHub : mnzoor Linkedin Twitter : @ashmnzr Discord : ByteClaw#4527 Skills Proficient: Swift Familiar: C,Java,Python Experience Self Employed (2023 - Present)
-Building FarSouls Education BS Data Science - IIT Madras
-Coursework: Stats, Data Structures, DBMS </description>
-    </item>
-    
   </channel>
 </rss>
